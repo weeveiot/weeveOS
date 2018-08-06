@@ -5,12 +5,6 @@ If you came here for our Ethereum wallet, please check out the temporary branch 
 # weeve_clients
 Weeve platform clients for weeveOS
 
-## host folder
-The source code for the normal world application in weeveOS.
-
-## ta folder
-The source code for the trusted world application in weeveOS.
-
 # How to run
 
 ## Contents
